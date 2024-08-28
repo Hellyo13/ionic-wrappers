@@ -1,5 +1,5 @@
 {
-  "name": "QRScanner",
+  "name": "@ionic-wrappers/qr-scanner",
   "version": "1.0.0",
   "description": "Native plugin wrapper for cordova-plugin-qrscanner",
   "scripts": {

@@ -1,5 +1,5 @@
 {
-    "name": "QRScanner",
+    "name": "@ionic-wrappers/qr-scanner",
     "version": "1.0.0",
     "peerDependencies": {
         "@awesome-cordova-plugins/core": "^6.4.0",
