@@ -1,5 +1,5 @@
-# cgd-qrscanner-wrapper
+# ionic-wrapper
 
-Ionic Native wrapper for `cordova-plugin-example`.
+Ionic wrappers for general use.
 
-Official `@awesome-cordova-plugins` repository: https://github.com/danielsogl/awesome-cordova-plugins
+Based on the official `@awesome-cordova-plugins` repository: https://github.com/danielsogl/awesome-cordova-plugins
