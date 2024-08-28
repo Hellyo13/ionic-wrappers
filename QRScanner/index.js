@@ -1,4 +1,4 @@
-import { QRScanner } from './apps/cgd-qrscanner-wrapper/src';
+import { QRScanner } from './ionic-wrappers/qrscanner_source/src';
 window.IonicNative = {
 QRScanner
 };
