@@ -60,6 +60,8 @@ export interface AFAAuthOptions {
    * Set the hint displayed by the fingerprint icon on the fingerprint authentication dialog.
    */
   dialogHint?: string;
+
+  encryptNoAuth?: boolean;
 }
 
 export interface AFADecryptOptions {
